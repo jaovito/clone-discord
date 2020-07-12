@@ -43,4 +43,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 <hr>
+
 # Clone-Discord
+
+Clone of the famous website Discord, this clone has only the frontend part made with Type Script and styled components.
