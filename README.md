@@ -19,3 +19,9 @@ $ git clone https://github.com/jaovito/clone-discord.git
 ```bash
 $ npm install # ou yarn install
 ```
+
+## Utilização
+Após o passo acima provavelmente abrirá uma página em seu navegador, caso não abra deve colar o link abaixo em seu navegador.
+```
+https://localhost:3000
+```
